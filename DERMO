@@ -1,0 +1,22 @@
+trojan://Gds6bvbAyneDEjke@jp-global2.xeovo.net:444#JP / Trojan (TLS)
+trojan://Gds6bvbAyneDEjke@jp-global2.xeovo.net:443?path=%2Fcolcha&host=jp-global2.xeovo.net&sni=jp-global2.xeovo.net&type=ws#JP / Trojan (WS+TLS)
+vless://b3323f25-3836-49dd-9388-43233391e141@jp-global2.xeovo.net:443/potosi?type=ws&encryption=none&security=tls&sni=jp-global2.xeovo.net&host=jp-global2.xeovo.net&path=%2Fpotosi#JP / VLESS (WS+TLS, for Xray)
+vmess://eyJhZGQiOiAianAtZ2xvYmFsMi54ZW92by5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJqcC1nbG9iYWwyLnhlb3ZvLm5ldCIsICJpZCI6ICJiMzMyM2YyNS0zODM2LTQ5ZGQtOTM4OC00MzIzMzM5MWUxNDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NhY2FjYSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJKUCAvIFZNZXNzIChXUytUTFMsIGZvciBWMlJheSkiLCAic2N5IjogIm5vbmUiLCAic25pIjogImpwLWdsb2JhbDIueGVvdm8ubmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdEFoRU9sWXdKTHJHZHM2YnZiQXluZURFamtl@lv-global1.xeovo.net:9000#LV / Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdEFoRU9sWXdKTHJHZHM2YnZiQXluZURFamtl@lv-global1.xeovo.net:9002?plugin=v2ray-plugin%3Btls%3Bhost%3Dlv-global1.xeovo.net%3Bpath%3D/%3Bmux%3D0#LV / Shadowsocks (v2ray)
+trojan://Gds6bvbAyneDEjke@lv-global1.xeovo.net:444#LV / Trojan (TLS)
+trojan://Gds6bvbAyneDEjke@lv-global1.xeovo.net:443?path=%2Fcolcha&host=lv-global1.xeovo.net&sni=lv-global1.xeovo.net&type=ws#LV / Trojan (WS+TLS)
+vless://b3323f25-3836-49dd-9388-43233391e141@lv-global1.xeovo.net:443/potosi?type=ws&encryption=none&security=tls&sni=lv-global1.xeovo.net&host=lv-global1.xeovo.net&path=%2Fpotosi#LV / VLESS (WS+TLS, for Xray)
+vmess://eyJhZGQiOiAibHYtZ2xvYmFsMS54ZW92by5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJsdi1nbG9iYWwxLnhlb3ZvLm5ldCIsICJpZCI6ICJiMzMyM2YyNS0zODM2LTQ5ZGQtOTM4OC00MzIzMzM5MWUxNDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NhY2FjYSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJMViAvIFZNZXNzIChXUytUTFMsIGZvciBWMlJheSkiLCAic2N5IjogIm5vbmUiLCAic25pIjogImx2LWdsb2JhbDEueGVvdm8ubmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdEFoRU9sWXdKTHJHZHM2YnZiQXluZURFamtl@us-lv-global1.xeovo.net:9000#US-LV / Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdEFoRU9sWXdKTHJHZHM2YnZiQXluZURFamtl@us-lv-global1.xeovo.net:9002?plugin=v2ray-plugin%3Btls%3Bhost%3Dus-lv-global1.xeovo.net%3Bpath%3D/%3Bmux%3D0#US-LV / Shadowsocks (v2ray)
+trojan://Gds6bvbAyneDEjke@us-lv-global1.xeovo.net:444#US-LV / Trojan (TLS)
+trojan://Gds6bvbAyneDEjke@us-lv-global1.xeovo.net:443?path=%2Fcolcha&host=us-lv-global1.xeovo.net&sni=us-lv-global1.xeovo.net&type=ws#US-LV / Trojan (WS+TLS)
+vless://b3323f25-3836-49dd-9388-43233391e141@us-lv-global1.xeovo.net:443/potosi?type=ws&encryption=none&security=tls&sni=us-lv-global1.xeovo.net&host=us-lv-global1.xeovo.net&path=%2Fpotosi#US-LV / VLESS (WS+TLS, for Xray)
+vmess://eyJhZGQiOiAidXMtbHYtZ2xvYmFsMS54ZW92by5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJ1cy1sdi1nbG9iYWwxLnhlb3ZvLm5ldCIsICJpZCI6ICJiMzMyM2YyNS0zODM2LTQ5ZGQtOTM4OC00MzIzMzM5MWUxNDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NhY2FjYSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJVUy1MViAvIFZNZXNzIChXUytUTFMsIGZvciBWMlJheSkiLCAic2N5IjogIm5vbmUiLCAic25pIjogInVzLWx2LWdsb2JhbDEueGVvdm8ubmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdEFoRU9sWXdKTHJHZHM2YnZiQXluZURFamtl@fr-global1.xeovo.net:9000#FR / Shadowsocks
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxdEFoRU9sWXdKTHJHZHM2YnZiQXluZURFamtl@fr-global1.xeovo.net:9002?plugin=v2ray-plugin%3Btls%3Bhost%3Dfr-global1.xeovo.net%3Bpath%3D/%3Bmux%3D0#FR / Shadowsocks (v2ray)
+trojan://Gds6bvbAyneDEjke@fr-global1.xeovo.net:444#FR / Trojan (TLS)
+trojan://Gds6bvbAyneDEjke@fr-global1.xeovo.net:443?path=%2Fcolcha&host=fr-global1.xeovo.net&sni=fr-global1.xeovo.net&type=ws#FR / Trojan (WS+TLS)
+vless://b3323f25-3836-49dd-9388-43233391e141@fr-global1.xeovo.net:443/potosi?type=ws&encryption=none&security=tls&sni=fr-global1.xeovo.net&host=fr-global1.xeovo.net&path=%2Fpotosi#FR / VLESS (WS+TLS, for Xray)
+vmess://eyJhZGQiOiAiZnItZ2xvYmFsMS54ZW92by5uZXQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJmci1nbG9iYWwxLnhlb3ZvLm5ldCIsICJpZCI6ICJiMzMyM2YyNS0zODM2LTQ5ZGQtOTM4OC00MzIzMzM5MWUxNDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NhY2FjYSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJGUiAvIFZNZXNzIChXUytUTFMsIGZvciBWMlJheSkiLCAic2N5IjogIm5vbmUiLCAic25pIjogImZyLWdsb2JhbDEueGVvdm8ubmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
